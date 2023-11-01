@@ -9,7 +9,7 @@
 
 
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
         
 
 ![capa ping-pong](https://github.com/danisantoss2411/Ping-Pong1/assets/131498833/b17797f7-3bd3-4c0f-be77-e03d7d5bcc2f)
